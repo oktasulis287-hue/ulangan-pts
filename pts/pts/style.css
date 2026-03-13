@@ -1,0 +1,25 @@
+body{
+font-family: Arial;
+background-color: lightpink;
+text-align: center;
+}
+
+h1{
+color: darkblue;
+}
+
+table{
+margin: auto;
+background: white;
+}
+
+img{
+border-radius: 5px;
+}
+
+button{
+background-color: darkblue;
+color:beige;
+padding: 10px;
+border: none;
+}
